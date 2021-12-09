@@ -98,10 +98,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 365,Mandera,KE,81.21,broken clouds,3.9366,41.867,Mwalimu Guest mandera
 368,Piacabucu,BR,78.28,broken clouds,-10.4056,-36.4344,Piaçabuçu News
 369,Nabire,ID,85.23,overcast clouds,-3.3667,135.4833,Hotel Nusantara Nabire
-372,Tucuma,BR,76.57,moderate rain,-0.1833,-50.05,
-374,Providencia,MX,86.05,clear sky,28.7167,-111.5833,
 377,Teahupoo,PF,80.56,overcast clouds,-17.8333,-149.2667,Vanira Lodge
-381,Gamba,GA,78.03,light rain,-2.65,10.0,
 382,Warri,NG,77.97,overcast clouds,5.5167,5.75,BON Hotel Delta
 384,Charters Towers,AU,85.69,clear sky,-20.1,146.2667,Cattleman's Rest Motor Inn
 386,Boa Vista,BR,84.18,broken clouds,2.8197,-60.6733,Aipana Plaza Hotel
@@ -139,7 +136,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 487,Gombong,ID,82.83,overcast clouds,-7.6072,109.5142,Grafika Hotel Dan Restoran
 488,Progreso,MX,84.31,clear sky,21.2833,-89.6667,Playa Linda Hotel
 489,Kudahuvadhoo,MV,82.09,overcast clouds,2.6708,72.8944,Niyama Private Islands Maldives
-506,Caxito,AO,81.25,overcast clouds,-8.5785,13.6643,
 508,Itarema,BR,81.01,few clouds,-2.9248,-39.9167,"Sea Lounge! Bar, Club & Restaurant"
 523,Vila Velha,BR,78.75,scattered clouds,-20.3297,-40.2925,Quality Suites Vila Velha
 524,Boyolangu,ID,76.53,overcast clouds,-8.1181,111.8935,Yos ega cv
@@ -155,7 +151,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 558,Kilindoni,TZ,79.41,overcast clouds,-7.9139,39.6668,Bustani B&B
 565,Canto Do Buriti,BR,75.69,broken clouds,-8.11,-42.9444,Novo Hotel
 570,Yeppoon,AU,80.38,broken clouds,-23.1333,150.7333,Villa Mar Colina
-571,Solenzo,BF,76.87,clear sky,12.1833,-4.0833,
 587,Wairoa,NZ,79.56,overcast clouds,-39.0333,177.3667,Riverside Motor Camp
 589,Bourail,NC,85.77,scattered clouds,-21.5667,165.4833,Motel Allamanda
 592,Kavaratti,IN,80.8,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
